@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/assignmenttortois/static/css/main.3034f0c2.css",
+    "main.js": "/assignmenttortois/static/js/main.3e656c99.js",
+    "index.html": "/assignmenttortois/index.html",
+    "main.3034f0c2.css.map": "/assignmenttortois/static/css/main.3034f0c2.css.map",
+    "main.3e656c99.js.map": "/assignmenttortois/static/js/main.3e656c99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3034f0c2.css",
+    "static/js/main.3e656c99.js"
+  ]
+}
